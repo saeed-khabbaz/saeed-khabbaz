@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saeed Khabbaz Sirjani
 
-<!--
-**saeed-khabbaz/saeed-khabbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineer with experience in:
 
-Here are some ideas to get you started:
+- STM32
+- AVR Microcontrollers
+- Verilog HDL
+- Digital Design
+- Computer Architecture
+- Electronics Simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- MIPS Single Cycle Processor
+- Basic Computer (Morris Mano)
+- Embedded Systems Projects
+- Electronics Design and Simulation
+
+## YouTube Channel
+
+@ChirehDastElectronicsAcademy
+
+## Interests
+
+- Embedded Systems
+- FPGA Design
+- Digital Electronics
+- Firmware Development
+- Engineering Education
